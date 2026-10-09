@@ -1,0 +1,4 @@
+I downloaded the WDI Excel file and opened it. I saw that it has data for 2000 to 2024, rows for each country and variable, and some missing values. I did not count anything or compare any values.
+1. I predict Pakistan’s under-5 mortality in 2022 will be higher than both Bangladesh’s and Sri Lanka’s, and the gap with Sri Lanka will be larger than the gap with Bangladesh, because Sri Lanka has a much stronger health system.
+2. I predict that Pakistan's GDP per capita will be lower than India's in most recent years, because the two countries have experienced different patterns of economic growth and income development.
+3. I predict that female primary completion rate will have one of the highest proportions of missing values in the dataset, potentially exceeding 20% of country-year observations, because education indicators may not be reported consistently across all countries and years.
